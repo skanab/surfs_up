@@ -24,12 +24,9 @@ The temperature analysis results show that people will eat ice cream in June and
 
 ### Average temp by station
 
-I wanted to see if the tempreture varied by station location.
+I wanted to see if the tempreture varied by year or station. Tempreture data varied very little for the month of June by station or year.
 
 
 ![June Temp Data By Station](https://github.com/skanab/surfs_up/blob/main/June_Temps_Station.PNG?raw=true)
 
-
-![Itinerary](https://github.com/skanab/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.PNG?raw=true)
-
-![City pop-ups](https://github.com/skanab/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.PNG?raw=true)
+![December Temp Data By Station](https://github.com/skanab/surfs_up/blob/main/December_Temps_Station.PNG?raw=true)
