@@ -1,16 +1,13 @@
-# World_Weather_Analysis
+# Surfs Up(Let's sell some Ice Cream)
+## Overview of Analysis
 
-## Weather Database
+W. Avy temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round.
 
-Generate a set of 2,000 random latitudes and longitudes, retrieve the nearest city, and perform an API call with the OpenWeatherMap. Save the data to WeatherPy_Database.csv to be consumed by the Vacation Search script.
-
-![Weather Database DataFrame](https://github.com/skanab/World_Weather_Analysis/blob/main/Weather_Database/DataFrame.PNG?raw=true)
-
-## Vacation Search
+## Results of the Temperature Analysis
 
 Use input statements to retrieve customer weather preferences, then use those preferences to identify potential travel destinations and nearby hotels. Then, show those destinations on a marker layer map with pop-up markers.
 
-![Hotel pop-ups](https://github.com/skanab/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.PNG?raw=true)
+![June Temp Date](https://github.com/skanab/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.PNG?raw=true)
 
 ## Vacation Itinerary
 
