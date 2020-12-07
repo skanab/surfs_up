@@ -22,11 +22,20 @@ The temperature analysis results show that people will eat ice cream in June and
 
 ## Two additional data points that I reviewed
 
-### Average temp by station
+### Average temperature by year and station
 
-I wanted to see if the tempreture varied by year or station. Tempreture data varied very little for the month of June by station or year.
+I wanted to see if the temperature varied by year or station. Temperature data differed very little for June and December by station or year.
 
 
 ![June Temp Data By Station](https://github.com/skanab/surfs_up/blob/main/June_Temps_Station.PNG?raw=true)
 
 ![December Temp Data By Station](https://github.com/skanab/surfs_up/blob/main/December_Temps_Station.PNG?raw=true)
+
+### Average precipitation by year and station
+
+When reviewing the precipitation data, I found that year and station data did have some variances worth exploring more. Some stations have meager yearly rainfall totals across all years. Locating the surf shop near these stations may lead to more traffic due to the favorable conditions.
+
+![June Rainfall Data By Station](https://github.com/skanab/surfs_up/blob/main/June_Rainfall_Station.PNG?raw=true)
+
+![December Rainfall Data By Station](https://github.com/skanab/surfs_up/blob/main/December_Rainfall_Station.PNG?raw=true)
+
