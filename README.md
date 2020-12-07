@@ -7,7 +7,10 @@ W. Avy temperature data for the months of June and December in Oahu, in order to
 
 Use input statements to retrieve customer weather preferences, then use those preferences to identify potential travel destinations and nearby hotels. Then, show those destinations on a marker layer map with pop-up markers.
 
-![June Temp Date](https://github.com/skanab/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.PNG?raw=true)
+![June Temp Date](https://github.com/skanab/surfs_up/blob/main/June_Temps.PNG?raw=true)
+
+![December Temp Date](https://github.com/skanab/surfs_up/blob/main/December_Temps.PNG?raw=true)
+
 
 ## Vacation Itinerary
 
